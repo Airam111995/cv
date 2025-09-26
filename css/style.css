@@ -1,0 +1,16 @@
+.general{
+   
+    justify-content: center;
+}
+.cabeza{
+    background-color: burlywood;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    justify-content: center;
+    align-items: center;
+}
+.imagen{
+    height: min-content;
+    border-radius: 20%;
+}
